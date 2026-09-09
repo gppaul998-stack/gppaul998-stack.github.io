@@ -11,7 +11,7 @@ I am a Computer Science & Engineering undergraduate at the University of Asia Pa
 ## Portfolio
 
 **Live Portfolio:**
-https://gppaul998-stack.github.io/portfolio/
+https://gppaul998-stack.github.io
 
 **GitHub:**
 https://github.com/gppaul998-stack
